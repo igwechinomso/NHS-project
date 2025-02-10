@@ -19,6 +19,20 @@ to enable stakeholders to track, analyze, and make data-driven decisions regardi
 
 - <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20dataset.csv" >View or Download</a>
 
+#### Steps 
+* Requirement Gathering/ Business Requirements
+* Data Walkthrough
+* Data Connection
+* Data Cleaning / Quality Check
+* Data Modeling
+* Data Processing
+* DAX Calculations
+* Dashboard Lay outing
+* Charts Development and Formatting
+* Dashboard / Report Development
+* Insights Generation
+
+
 #### Dashboard
 - <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20Eastmidlands.pbit" >View or Download</a>
 
