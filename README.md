@@ -29,7 +29,7 @@ to enable stakeholders to track, analyze, and make data-driven decisions regardi
 * Patient Satisfaction Score: 4.99/10, which suggests potential dissatisfaction among patients.
 * Overall Admission Rate: 50.04%, meaning about half of the hospital visitors require hospitalization.
 
-  ###### Recomendations
+###### Recomendations
 * Implement a triage optimization system to prioritize critical cases effectively.
 * Increase staffing during peak hours based on admission trends.
 * Enhance digital queue management to improve patient experience.
