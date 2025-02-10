@@ -20,4 +20,4 @@ to enable stakeholders to track, analyze, and make data-driven decisions regardi
 - <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20dataset.csv" >View or Download</a>
 
 #### Dashboard
-- <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20dataset.csv" >View or Download</a>
+- <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20Eastmidlands.pbit" >View or Download</a>
