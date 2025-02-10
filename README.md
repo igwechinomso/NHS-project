@@ -21,3 +21,22 @@ to enable stakeholders to track, analyze, and make data-driven decisions regardi
 
 #### Dashboard
 - <a href = "https://github.com/igwechinomso/NHS-project/blob/main/NHS%20Eastmidlands.pbit" >View or Download</a>
+
+#### Key Insights and recomendations
+###### Key Insights for Hospital Management
+* Total Patient Records: 9,216 cases analysed.
+* Average Patient Wait Time: 35.26 minutes, which may indicate room for improvement in patient flow management.
+* Patient Satisfaction Score: 4.99/10, which suggests potential dissatisfaction among patients.
+* Overall Admission Rate: 50.04%, meaning about half of the hospital visitors require hospitalization.
+
+  ###### Recomendations
+* Implement a triage optimization system to prioritize critical cases effectively.
+* Increase staffing during peak hours based on admission trends.
+* Enhance digital queue management to improve patient experience.
+* Address factors contributing to dissatisfaction (e.g., waiting times, communication).
+* Implement a real-time feedback system to track patient concerns.
+* Conduct training programs for staff on patient interaction and empathy.
+* Analyze department-specific referrals to identify where congestion occurs.
+* Improve coordination with general practitioners to avoid unnecessary  visits.
+* Expand telehealth services for non-critical cases to reduce  overload.
+
